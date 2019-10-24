@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baggage Buddy</string>
+    <string name="grabbed_data"></string>
+    <string name="title_activity_control">control</string>
+</resources>
